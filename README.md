@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Bank Application**
 
-- 👨‍💻 All of my projects are available at [replit.com](replit.com)
+- 👨‍💻 All of my projects are available at https://replit.com/@suvarnajyothi/Quiz-Application
 
 - 💬 Ask me about **HTML,CSS**
 
